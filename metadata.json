@@ -1,0 +1,9 @@
+{
+  "name": "Mind Space AI",
+  "description": "An AI-powered personal memory hub that captures, organizes, and retrieves information from screenshots, notes, and web clips using advanced natural language processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
