@@ -8,7 +8,7 @@ import {
   Filter, Moon, Sun, Database, Command, Bot
 } from 'lucide-react';
 import { Memory, MemoryType, CategoryFilter } from './types';
-import { extractMemoryDetails, searchMemoriesAI, generateCollections } from './geminiService';
+import { extractMemoryDetails, searchMemoriesAI, generateCollections } from './services/geminiService';
 import MemoryCard from './components/MemoryCard';
 import CaptureOverlay from './components/CaptureOverlay';
 import MemoryDetail from './components/MemoryDetail';
