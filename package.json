@@ -1,5 +1,6 @@
 {
   "name": "mind-space-ai",
+  "description": "Mind Space AI is an intelligent memory hub that uses Google's Gemini AI to capture, organize, and retrieve information. (Work in Progress - Not fully functional)",
   "private": true,
   "version": "0.0.0",
   "type": "module",
